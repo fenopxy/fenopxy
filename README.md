@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm Bora! 👋 </p>
+# <p align="center">Hi, I'm Sercan 👋 </p>
 <p align="center">
   <a href="https://github.com/bora399" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=bora399" alt="visitors" title="visitors"></a>
   <a href="https://github.com/bora399?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/bora399?logo=GitHub&logoColor=white" alt="GitHub Followers" title="GitHub Followers"></a>
